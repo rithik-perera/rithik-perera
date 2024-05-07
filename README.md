@@ -8,7 +8,7 @@ Hello! I'm Rithik Perera, a computer science student studyind at IIT Sri Lanka. 
 
 ## Skills
 - Programming Languages: Python, JavaScript, Java, PHP 
-- Web Development: HTML, CSS, ReactNative.js, Node.js
+- Web Development: HTML, CSS, ReactNative.js, Node.js, Express.js
 - Database Management: MongoDB, MySQL
 - Version Control: GitHub
 - Other: All rounded knowledge on Microsoft softwares eg. Word, Excel
@@ -17,7 +17,7 @@ Hello! I'm Rithik Perera, a computer science student studyind at IIT Sri Lanka. 
 Here are some of the projects I've worked on:
 1. [python-CW](https://github.com/rithik-perera/Python-CW) - Created a Python program tailored to university scenarios successfully.This program takes input data, including a student's credits, and produces a result indicating whether the studentcan progress, needs to repeat a course, or should follow a module trailer. Skills used: python.
 
-2.[ClinetServerArchitectureAPICreation](https://github.com/rithik-perera/clientServerArchitectureAPICreation) -contains the basic CRUD operations for a hospital management system containing model, DAO and resource classes. For now this repo only consists of the java files without the pom files and the necessary dependencies.
+2. [ClinetServerArchitectureAPICreation](https://github.com/rithik-perera/clientServerArchitectureAPICreation) -contains the basic CRUD operations for a hospital management system containing model, DAO and resource classes. For now this repo only consists of the java files without the pom files and the necessary dependencies.
 
 3. [OOP-Coursework](https://github.com/rithik-perera/OOP-Coursework) -  The Shopping Management System, built in Java, utilizes OOP
 principles to efficiently manage products. Its console menu, structured with classes like Product and User,ensures seamless interactions. Additionally, the system features a user-friendly GUI developed in Java Swing, enhancing the shopping experience with a user-friendly interface.
