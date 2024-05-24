@@ -8,7 +8,7 @@ Hello! I'm Rithik Perera, a computer science student studyind at IIT Sri Lanka. 
 
 ## Skills
 - Programming Languages: Python, JavaScript, Java, PHP 
-- Web Development: HTML, CSS, ReactNative.js, Node.js, Express.js
+- Web Development: HTML, CSS, React, Node.js, Express.js
 - Database Management: MongoDB, MySQL
 - Version Control: GitHub
 - Other: All rounded knowledge on Microsoft softwares eg. Word, Excel
