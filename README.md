@@ -25,7 +25,9 @@ principles to efficiently manage products. Its console menu, structured with cla
 5. [TrekTango-SDGP](https://github.com/dilmi214/TrekTango-SDGP) -  As the project leader in a software development group, myresponsibilities included distributing workload and task assignments. In addition to this, I was responsible for
 contributing to the back-end development and the creation of the CRUD operations. Our project focused ondeveloping a mobile travelling game application using Node.js and React Native. This app incentivised users with points for visiting various locations, fostering engagement and exploration.
 
-6. [AlgorithmCoursework](https://github.com/rithik-perera/AlgorithmCoursework) - This project tackles a pathfinding challenge commonly encountered in video games using Java. Leveraging the A* algorithm, it provides a solution to navigate a character through a grid-based map filled with frictionless ice and obstacles, aiming to reach a designated endpoint from a starting position.
+6. [ReactLearningProject](https://github.com/rithik-perera/ReactLearningProject) - This React learning project is designed to enhance my skills in both React and GitHub. Through this project, I aim to learn the fundamental concepts of React, deepen my understanding of advanced terminal commands in GitHub, and gain detailed knowledge of how branches work together.
+
+7. [AlgorithmCoursework](https://github.com/rithik-perera/AlgorithmCoursework) - This project tackles a pathfinding challenge commonly encountered in video games using Java. Leveraging the A* algorithm, it provides a solution to navigate a character through a grid-based map filled with frictionless ice and obstacles, aiming to reach a designated endpoint from a starting position.
 
 ## Get in Touch
 - LinkedIn: [Rithik Perera](https://www.linkedin.com/in/rithik-perera-7381b0275/)
